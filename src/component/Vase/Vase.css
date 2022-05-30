@@ -1,0 +1,8 @@
+.vase-container{
+    border: none;
+    border-radius: 10px;
+}
+.vase-container img{
+    height: 100%;
+    width: 100%;
+}

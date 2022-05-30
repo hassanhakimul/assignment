@@ -1,0 +1,13 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.vase-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 8px;
+}
+.add-container{
+    background-color: #CECECD;
+    border-radius: 2px;
+}
